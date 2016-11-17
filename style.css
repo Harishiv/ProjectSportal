@@ -1,0 +1,110 @@
+html
+{
+    font-family:Roboto;
+}
+body
+{
+    background-color: #ffffff;
+}
+.sgn
+{
+    font-family: Roboto;
+    font-weight: 300;
+    color: green;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.sgnfrm
+{
+    text-align: center;
+}
+.sgninp
+{
+    width: 450px;
+    height: 40px;
+    margin-bottom: 20px;
+    color: black;
+    background: rgba(197,255,165,0.45);
+    border: none;
+    outline-color: rgba(0,0,0,0);
+    padding-left: 6px;
+}
+.sgninp:hover
+{
+     box-shadow: 2px 3px 10px rgba(0,0,0,0.2);
+}
+.sgnbtn
+{
+    width: 450px;
+    height: 40px;
+    margin-bottom: 24px;
+    background: black;
+    color: white;
+    font-family: roboto;
+    font-size: 18px;
+    border: none;
+    outline-color: rgba(0,0,0,0);
+}
+.lgn
+{
+    font-family: Roboto;
+    font-weight: 300;
+    color: green;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.lgnfrm
+{
+    text-align: center;
+}
+.lgninp
+{
+    width: 450px;
+    height: 40px;
+    margin-bottom: 20px;
+    color: black;
+    background: rgba(197,255,165,0.45);
+    border: none;
+    outline-color: rgba(0,0,0,0);
+    padding-left: 6px;
+}
+.lgninp:hover
+{
+     box-shadow: 2px 3px 10px rgba(0,0,0,0.2);
+}
+.lgnbtn
+{
+    width: 450px;
+    height: 40px;
+    margin-top: 18px;
+    margin-bottom: 24px;
+    background: #19d219;
+    color: white;
+    font-family: roboto;
+    font-size: 18px;
+    border: none;
+    outline-color: rgba(0,0,0,0);
+}
+.check
+{
+    margin-left: 250px;
+}
+.forgot
+{
+    float: right;
+    text-decoration: none;
+    color: black;
+    margin-right: 450px;
+}
+.alr
+{
+    font-family: roboto;
+    font-size: 14px;
+    text-align: center;
+    color: forestgreen;
+    text-decoration: none;
+}
